@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple launcher icon: red rounded square (SteadyCash accent). No mipmap needed. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#E53935" />
+    <corners android:radius="16dp" />
+</shape>

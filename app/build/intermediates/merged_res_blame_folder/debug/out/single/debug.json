@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.steadycash.app-merged_res-47:/drawable_ic_launcher.xml.flat",
+        "source": "com.steadycash.app-main-49:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.steadycash.app-merged_res-47:/drawable_red_cross_icon.png.flat",
+        "source": "com.steadycash.app-main-49:/drawable/red_cross_icon.png"
+    }
+]
